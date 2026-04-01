@@ -24,7 +24,7 @@
 🏢  Currently     Specialist Software Engineer @ LTIMindtree - Microsoft BU
 📍  Location      Pune, India
 🔧  Building      HwDiagLnx — GPU diagnostics for Azure Linux (NVIDIA Hopper/Blackwell, AMD Mi300x)
-🏗️  Previously    Built HA enterprise Linux products @ Coriolis Technologies (5+ years)
+🏗️  Previously    Systems & security software @ Coriolis Technologies (5+ years)
 🎯  Looking for   Software Engineering roles (Systems / Backend / Platform / DevOps)
 ⚡  Fun fact      International Math Olympiad — Rank 8 (2013)
 ```
