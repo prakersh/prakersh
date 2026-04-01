@@ -87,17 +87,23 @@
 - GPU validation: NVIDIA Hopper H100, Blackwell GB200, AMD Mi300x
 - Multi-stage **Azure DevOps CI/CD** — build, sign, RPM packaging every commit
 - Automated GPU cluster deployment with Bash/Python/PowerShell
+- End-to-end GPU field-diagnostic workflows (fieldiag, IPMI, telemetry)
+- Designed workflows & documentation for Linux and Windows diagnostic tools
 
 </td>
 <td width="50%" valign="top">
 
-**Coriolis Technologies** `2018 – 2024`
+**Coriolis Technologies** `06/2018 – 12/2020 & 12/2021 – 02/2024`
 > Member Technical Staff
 
 - **Pacemaker resource agent** for CipherTrust — five-nines HA on Red Hat clusters
 - **Multi-node orchestration** framework with Redis pub/sub
 - **Terraform provider** for CipherTrust in Go — full CRUD + state logic
-- RPM/DEB packaging, systemd services, cross-distro (RHEL/Ubuntu)
+- RPM/DEB packaging, systemd/sysvinit services, cross-distro (RHEL/Ubuntu)
+- Led Scrum team for Program Increments (SAFe Agile)
+- Resolved all customer escalations for install/upgrade/dependency failures
+- Enhanced C binaries & built zero-downtime upgrade-on-reboot feature
+- Automated Linux workflows with Python/Bash + observability instrumentation
 
 </td>
 </tr>
