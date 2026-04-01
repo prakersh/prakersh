@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12&height=180&section=header&text=Prakersh%20Maheshwari&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%207%2B%20Years%20%7C%20Systems%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI&descSize=16&descAlignY=52"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=Systems+Programmer+%E2%80%A2+Cloud+Native+Builder;C%2FC%2B%2B+%E2%80%A2+Go+%E2%80%A2+Python+%E2%80%A2+Bash+%E2%80%A2+Terraform;17+Projects+%E2%80%A2+Open+Source+Contributor;Passionate+about+GenAI+%26+Developer+Tools;Actively+Looking+for+New+Opportunities)](https://prakersh.in)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=Systems+Programmer+%E2%80%A2+Cloud+Native+Builder;C%2FC%2B%2B+%E2%80%A2+Python+%E2%80%A2+Go+%E2%80%A2+Bash+%E2%80%A2+Terraform;17+Projects+%E2%80%A2+Open+Source+Contributor;Passionate+about+GenAI+%26+Developer+Tools;Actively+Looking+for+New+Opportunities)](https://prakersh.in)
 
 [![Open to Work](https://img.shields.io/badge/ACTIVELY%20LOOKING%20FOR%20OPPORTUNITIES-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white)](#)
 
